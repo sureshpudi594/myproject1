@@ -15,7 +15,7 @@ public class arrayreverse {
 		Collections.reverse(list);
 		System.out.println("reverse order"+"   "+list);
 				
-
+//
 	}
 
 }
