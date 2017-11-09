@@ -9,6 +9,8 @@ public class ff {
 		System.setProperty("webdriver.gecko.driver","D:\\Softwares\\Selenium softwares\\geckodriver.exe");
 		FirefoxDriver fp=new FirefoxDriver();
 		fp.get("http://google");
+		//
+		
 
 	}
 

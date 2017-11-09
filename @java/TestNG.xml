@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="cross" parallel="tests">
+   <test name="Test In FireFox" >
+    <parameter name="browser" value="firefox" />
+    <classes>
+      <class name="webdriver.crossbrowser" />
+    </classes>
+  </test>
+   <test name="Test In Google Chrome" >
+    <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="webdriver.crossbrowser"></class>
+    </classes>
+  </test> 
+</suite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87" started-at="2017-03-02T06:38:31Z" finished-at="2017-03-02T06:38:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87" started-at="2017-03-02T06:38:31Z" finished-at="2017-03-02T06:38:31Z">
+      <class name="testngprogrames.testngdemo">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:testngprogrames.testngdemo@7921b0a2]" name="openbrowser" is-config="true" duration-ms="18" started-at="2017-03-02T12:08:31Z" finished-at="2017-03-02T12:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testngprogrames.testngdemo@7921b0a2]" name="login" duration-ms="11" started-at="2017-03-02T12:08:31Z" finished-at="2017-03-02T12:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="resgistration()[pri:0, instance:testngprogrames.testngdemo@7921b0a2]" name="resgistration" duration-ms="7" started-at="2017-03-02T12:08:31Z" finished-at="2017-03-02T12:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resgistration -->
+        <test-method status="PASS" signature="sendmail()[pri:0, instance:testngprogrames.testngdemo@7921b0a2]" name="sendmail" duration-ms="4" started-at="2017-03-02T12:08:31Z" finished-at="2017-03-02T12:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendmail -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:testngprogrames.testngdemo@7921b0a2]" name="signoff" is-config="true" duration-ms="1" started-at="2017-03-02T12:08:31Z" finished-at="2017-03-02T12:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+      </class> <!-- testngprogrames.testngdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
